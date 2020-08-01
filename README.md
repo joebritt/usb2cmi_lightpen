@@ -8,7 +8,8 @@ Microchip is good about making legacy tools available, you can find version 8.63
 
 https://www.microchip.com/development-tools/pic-and-dspic-downloads-archive
 
-*You don't have to build the code from source.*
+*You don't have to build the code from source:*
+
 In the "prebuilt_hexfiles" folder are pre-compiled images of the bootloader and lightpen emulation application.
 
 To use these:
