@@ -58,4 +58,7 @@ Differences:
   - Video RCA jack and USB connector are routed to a panel that mounts to the CMI bottom pan
   - laser-cut "ears" attach to the interface board and let it occupy an unused CMI slot
 
+The CMI Series I and II have a slightly different connection to the front panel board. On those
+machines, an adapter board is used to convert to a IIX-style connector that the interface board
+can connect to.
 
