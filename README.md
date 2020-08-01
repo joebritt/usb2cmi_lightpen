@@ -68,7 +68,7 @@ To use these:
 - Plug the thumbdrive into the interface USB port and power up the board.
 - You should see the leds blink back and forth, then the cmimouse.hex file will be copied from the thumbdrive to the PIC32 flash.
 - You'll see the LEDs change their flashing pattern when the code is flashed and started.
-- Unplug the thumbdrive, plug in a mouse, and you should see the mouse status LED stop flashing and go to solid ON.
+- Unplug the thumbdrive, plug in a mouse, and you should see the mouse status LED turn ON.
 - If you connect the unit to the CMI and power on the CMI, you should see the video status LED stop flashing and go solid ON, and the cursor appear on the CMI video output.
 
 ## Hardware
