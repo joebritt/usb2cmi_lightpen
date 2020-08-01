@@ -9,14 +9,11 @@ Use a USB mouse instead of (or in conjunction with) the lightpen on a Fairlight 
 
 # Basic Idea
 
-When in use, the interface generates lightpen emulation signals that make the CMI video hardware
-"think" a lightpen is there. The signals are generated to create a small (smaller than is normal
-with the real lightpen) cursor on the screen.
+The interface generates lightpen emulation signals that make the CMI video hardware "think" a lightpen is there. The signals are generated to create a small (smaller than is normal with the real lightpen) cursor on the screen.
 
 Moving the mouse, you will see the on-screen cursor track the mouse movement.
 
-Clicking the left button (or button, if it's a 1-button mouse) is like touching the tip of the
-real lightpen.
+Clicking the left button (or button, if it's a 1-button mouse) is like touching the tip of the real lightpen.
 
 If the mouse has a right button, clicking it will toggle the cursor off and on.
 
