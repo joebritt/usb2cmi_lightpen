@@ -28,7 +28,7 @@ reappear.
 V1 is the original external box style interface. It is powered by a 5V AC adapter.
 
 Both versions have 2 LEDs. These are used to show the status of the video signal (flashes if no video
-detected) and presence of a mouse (flashes if no mouse detected).
+detected) and presence of a mouse (off if no mouse detected).
 
 V1 has an RCA jack which provides unbuffered access to the CMI video signal. Since it is
 unbuffered, the legacy VDU cannot (normally) be used at the same time as the RCA jack.
