@@ -6,6 +6,51 @@ Use a USB mouse instead of (or in conjunction with) the lightpen on a Fairlight 
   <img src="interface_photos/V2/IMG_20170923_110217.jpg" width="550" title="Version 2">
 </p>
 
+
+# Basic Idea
+
+When in use, the interface generates lightpen emulation signals that make the CMI video hardware
+"think" a lightpen is there. The signals are generated to create a small (smaller than is normal
+with the real lightpen) cursor on the screen.
+
+Moving the mouse, you will see the on-screen cursor track the mouse movement.
+
+Clicking the left button (or button, if it's a 1-button mouse) is like touching the tip of the
+real lightpen.
+
+If the mouse has a right button, clicking it will toggle the cursor off and on.
+
+If a real lightpen is fitted to the VDU, it will continue to work in conjunction with the mouse.
+Normally, the mouse cursor will be shown on the screen. If you bring the lightpen to the screen,
+the lightpen cursor will appear and the mouse cursor will disappear. You can then interact using
+the lightpen as normal. When you move the lightpen away from the screen, the mouse cursor will
+reappear.
+
+# Version 1
+
+V1 is the original external box style interface. It is powered by a 5V AC adapter.
+
+Both versions have 2 LEDs. These are used to show the status of the video signal (flashes if no video
+detected) and presence of a mouse (flashes if no mouse detected).
+
+V1 has an RCA jack which provides unbuffered access to the CMI video signal. Since it is
+unbuffered, the legacy VDU cannot (normally) be used at the same time as the RCA jack.
+(V2 buffers the video signal to allow this use case.)
+
+# Version 2
+
+V2 is an updated version that fits completely inside the CMI. It is the same core hardware design.
+
+Differences:
+  - No AC power supply needed, it is powered from 5V that is tapped from the CMI front panel board
+  - RCA jack provides a buffered CMI video signal, so it and the VDU may be used simultaneously
+  - Video RCA jack and USB connector are routed to a panel that mounts to the CMI bottom pan
+  - laser-cut "wings" attach to the interface board and let it occupy an unused CMI slot
+
+The CMI Series I and II have a slightly different connection to the front panel board. On those
+machines, an adapter board is used to convert to a IIX-style connector that the interface board
+can connect to.
+
 ## Firmware
 
 Some work will be needed to get the code to build with the latest Microchip MPLAB X tools,
@@ -58,8 +103,8 @@ Of course, the box can be used without the VDU, in which case only one 5-pin XLR
 
 Version 2 doesn't need the external 5-pin XLR cabling, but does need several smaller internal cables:
 
-- 26-way ribbon cable with a female IDC connector at each end, taps power from CMI front panel
-- 1x (CMI IIX) or 2 (CMI I or II) 10-way ribbon cable with a female IDC connector at each end for video & LP signals
+- 1x 26-way ribbon cable with a female IDC connector at each end, taps power from CMI front panel
+- 1x (CMI IIX) or 2x (CMI I or II) 10-way ribbon cable with a female IDC connector at each end for video & LP signals
 - 1x USB Type A to Type B bulkead connector extension, routes USB connection on board to rear panel
 - 1x RCA male/male extension, routes video from RCA jack on board to rear panel RCA jack
 - 1x RCA female/female bulkhead connector, pass video from internal extension cable to external jack
@@ -85,47 +130,4 @@ For the rear panel, countersunk holes are provided in the aluminum panel to acce
 The bulkhead female/female RCA connector has 1 large nut which should be on the inside face of the panel.
 The bulkhead USB connector has 2 M3 screws that hold it in place.
 
-# Basic Idea
-
-When in use, the interface generates lightpen emulation signals that make the CMI video hardware
-"think" a lightpen is there. The signals are generated to create a small (smaller than is normal
-with the real lightpen) cursor on the screen.
-
-Moving the mouse, you will see the on-screen cursor track the mouse movement.
-
-Clicking the left button (or button, if it's a 1-button mouse) is like touching the tip of the
-real lightpen.
-
-If the mouse has a right button, clicking it will toggle the cursor off and on.
-
-If a real lightpen is fitted to the VDU, it will continue to work in conjunction with the mouse.
-Normally, the mouse cursor will be shown on the screen. If you bring the lightpen to the screen,
-the lightpen cursor will appear and the mouse cursor will disappear. You can then interact using
-the lightpen as normal. When you move the lightpen away from the screen, the mouse cursor will
-reappear.
-
-# Version 1
-
-V1 is the original external box style interface. It is powered by a 5V AC adapter.
-
-Both versions have 2 LEDs. These are used to show the status of the video signal (flashes if no video
-detected) and presence of a mouse (flashes if no mouse detected).
-
-V1 has an RCA jack which provides unbuffered access to the CMI video signal. Since it is
-unbuffered, the legacy VDU cannot (normally) be used at the same time as the RCA jack.
-(V2 buffers the video signal to allow this use case.)
-
-# Version 2
-
-V2 is an updated version that fits completely inside the CMI. It is the same core hardware design.
-
-Differences:
-  - No AC power supply needed, it is powered from 5V that is tapped from the CMI front panel board
-  - RCA jack provides a buffered CMI video signal, so it and the VDU may be used simultaneously
-  - Video RCA jack and USB connector are routed to a panel that mounts to the CMI bottom pan
-  - laser-cut "wings" attach to the interface board and let it occupy an unused CMI slot
-
-The CMI Series I and II have a slightly different connection to the front panel board. On those
-machines, an adapter board is used to convert to a IIX-style connector that the interface board
-can connect to.
 
