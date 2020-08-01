@@ -1,0 +1,43 @@
+Partlist exported from C:/Users/britt/Documents/EagleWork/JoeProjects/USB2CMI_MOUSE/usb2cmi.sch at  6/03/2010 11:35:31a
+
+Part Value        Device            Package      Description                         
+C1   .1uF         C_0603            C0603        NON-POLARIZED CAP                   
+C2   .1uF         C_0603            C0603        NON-POLARIZED CAP                   
+C3   .1uF         C_0603            C0603        NON-POLARIZED CAP                   
+C4   .1uF         C_0603            C0603        NON-POLARIZED CAP                   
+C5   .1uF         C_0603            C0603        NON-POLARIZED CAP                   
+C6   .1uF         C_0603            C0603        NON-POLARIZED CAP                   
+C7   33uF         CPOL-US085CS-1AR  085CS_1AR    POLARIZED CAPACITOR, American symbol
+C8   100uF        CPOL-USCT6032     CT6032       POLARIZED CAPACITOR, American symbol
+C9   .1uF         C_0603            C0603        NON-POLARIZED CAP                   
+C10  .1uF         C_0603            C0603        NON-POLARIZED CAP                   
+C11  .1uF         C_0603            C0603        NON-POLARIZED CAP                   
+C21  .1uF         C_0603            C0603        NON-POLARIZED CAP                   
+C22  33uF         CPOL-US085CS-1AR  085CS_1AR    POLARIZED CAPACITOR, American symbol
+D1   1N4001       1N4004            DO41-10      DIODE                               
+EXP               MA20-2            MA20-2       PIN HEADER                          
+FB1               L-US0207/15       0207/15      INDUCTOR, American symbol           
+ICP  RJ11         RJ11              RJ11                                             
+J1   NC5MBH       NC5MBH            NC5MBH       Neutrik Audio Connector XLR SERIES  
+J2   NC5FAH       NC5FAH            NC5FAH       Neutrik Audio Connector XLR SERIES  
+J3   RCA-HSC      RCA-HSC           RCA-SHIELDED                                     
+J4   DANGER_POWER DANGER_POWER      DANGER-POWER                                     
+J5   USB-A-H      USB-A-H           USB-A-H      USB Connectors                      
+LED1 HSC_STACKED  HSC_STACKED       HSC_STACKED                                      
+R1   680K         R_0603            R0603        RESISTOR                            
+R2   330          R_0603            R0603        RESISTOR                            
+R3   220          R_0603            R0603        RESISTOR                            
+R4   330          R_0603            R0603        RESISTOR                            
+R5   220          R_0603            R0603        RESISTOR                            
+R6   56           R_0603            R0603        RESISTOR                            
+R7   51           R_0603            R0603        RESISTOR                            
+R12  10K          R_0603            R0603        RESISTOR                            
+R16  0            R_0603            R0603        RESISTOR                            
+U1   PIC32MX440FH PIC32MX440FH      TQFP64-10X10 Microchip PIC32 USB                 
+U2   74LS00D      74LS00D           SO14         Quad 2-input NAND gate              
+U3A  LM1881DIL    LM1881DIL         DIL08                                            
+U3B  LM1881SO     LM1881SO          SO08                                             
+U5A  TPS2051BD    TPS2041BD         SO-08                                            
+U5B  TPS2051BDBV  TPS2041BDBV       DBV-5                                            
+VR1  LT1963A-3.3  LINEAR-REG-SOT223 SOT-223                                          
+X1   8 MHz        CTS-OSC           CTS-OSC                                          
