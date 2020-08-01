@@ -2,8 +2,8 @@
 Use a USB mouse instead of (or in conjunction with) the lightpen on a Fairlight CMI.
 
 <p align="middle">
-  <img src="interface_photos/V1/IMG_20190323_144949.jpg" width="700" title="Version 1">
-  <img src="interface_photos/V2/IMG_20170923_110217.jpg" width="700" title="Version 2">
+  <img src="interface_photos/V1/IMG_20190323_144949.jpg" width="600" title="Version 1">
+  <img src="interface_photos/V2/IMG_20170923_110217.jpg" width="600" title="Version 2">
 </p>
 
 ## Firmware
