@@ -345,8 +345,8 @@ lightpen saw the beam fly by.
 The PIC32's Timer 2 and 3 are bonded into a 32 bit counter, clocked by the internal 
 80MHz clock.
 
-The natural dotclk of the Q219 board is 10.38MHz.  At 80MHz, each tick of the timer
-is then 7.7 dot clocks.  This is enough resolution to generate HIT pulses within a dotclk
+The natural dotclk of the Q219 board is 10.38MHz.  There are then 7.7 80MHz timer ticks per
+10.38MHz dot clock.  This is enough resolution to generate HIT pulses within a dotclk
 (pixel) window to get a stable cursor on the screen.
 
 When we get a VSYNC interrupt, we clear the line counter -- we're now at the top of the
