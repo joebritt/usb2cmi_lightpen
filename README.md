@@ -8,6 +8,19 @@ Microchip is good about making legacy tools available, you can find version 8.63
 
 https://www.microchip.com/development-tools/pic-and-dspic-downloads-archive
 
+*You don't have to build the code from source.*
+In the "prebuilt_hexfiles" folder are pre-compiled images of the bootloader and lightpen emulation application.
+
+To use these:
+
+- Use the Microchip tools to flash bootloader.hex into the PIC32.
+- Put cmimouse.hex on a USB thumbdrive (formatted with a DOS/FAT filesystem).
+- Plug the thumbdrive into the interface USB port and power up the board.
+- You should see the leds blink back and forth, then the cmimouse.hex file will be copied from the thumbdrive to the PIC32 flash.
+- You'll see the LEDs change their flashing pattern when the code is flashed and started.
+- Unplug the thumbdrive, plug in a mouse, and you should see the mouse status LED stop flashing and go to solid ON.
+- If you connect the unit to the CMI and power on the CMI, you should see the video status LED stop flashing and go solid ON, and the cursor appear on the CMI video output.
+
 # Basic Idea
 
 When in use, the interface generates lightpen emulation signals that make the CMI video hardware
