@@ -1,6 +1,10 @@
 # usb2cmi_lightpen
 Use a USB mouse instead of (or in conjunction with) the lightpen on a Fairlight CMI.
 
+<p align="center">
+  <img src="interface_photos/V1/IMG_20190323_144949.jpg" width="350" title="Version 1">
+</p>
+
 Some work will be needed to get the code to build with the latest Microchip MPLAB X tools,
 so I recommend installing the v8.63 release of MPLAB (pre-MPLAB X). 
 
