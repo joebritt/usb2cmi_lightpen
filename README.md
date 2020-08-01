@@ -52,7 +52,7 @@ an analog RGB video cable. The pinout for this cable is not straight-through, pl
 details in the monitor_cable folder.
 
 Using two of these 5-pin XLR cables, the box is connected between the CMI and VDU.
-Of course, the box can be used without the VDU, in which case only 1 5-pin XLR cable is needed.
+Of course, the box can be used without the VDU, in which case only one 5-pin XLR cable is needed.
 
 V1 has 2 LEDs. These are used to show the status of the video signal (flashes if no video
 detected) and presence of a mouse (flashes if no mouse detected).
@@ -69,7 +69,7 @@ Differences:
   - No AC power supply needed, it is powered from 5V that is tapped from the CMI front panel board
   - RCA jack provides a buffered CMI video signal, so it and the VDU may be used simultaneously
   - Video RCA jack and USB connector are routed to a panel that mounts to the CMI bottom pan
-  - laser-cut "ears" attach to the interface board and let it occupy an unused CMI slot
+  - laser-cut "wings" attach to the interface board and let it occupy an unused CMI slot
 
 The CMI Series I and II have a slightly different connection to the front panel board. On those
 machines, an adapter board is used to convert to a IIX-style connector that the interface board
