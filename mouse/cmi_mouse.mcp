@@ -1,0 +1,146 @@
+[HEADER]
+magic_cookie={66E99B07-E706-4689-9E80-9B2582898A13}
+file_version=1.0
+device=PIC32MX440F128H
+[PATH_INFO]
+BuildDirPolicy=BuildDirIsProjectDir
+dir_src=
+dir_bin=C:\Users\britt\Documents\pic32_work\mouse\Output
+dir_tmp=C:\Users\britt\Documents\pic32_work\mouse\Intermediary
+dir_sin=
+dir_inc=C:\Users\britt\Documents\pic32_work\mouse;C:\Microchip Solutions\Microchip\Include
+dir_lib=C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib
+dir_lkr=
+[CAT_FILTERS]
+filter_src=*.s;*.c
+filter_inc=*.h;*.inc
+filter_obj=*.o
+filter_lib=*.a
+filter_lkr=*.ld
+[CAT_SUBFOLDERS]
+subfolder_src=MAL USB Stack Source;MPLAB C32 Source;Project Specific Source
+subfolder_inc=MAL General Headers;MAL USB Stack Headers;MPLAB C32 Headers;Project Specific Headers
+subfolder_obj=
+subfolder_lib=
+subfolder_lkr=
+[FILE_SUBFOLDERS]
+file_000=MPLAB C32 Source
+file_001=Project Specific Source
+file_002=Project Specific Source
+file_003=MAL USB Stack Source
+file_004=MAL USB Stack Source
+file_005=MAL USB Stack Source
+file_006=Project Specific Source
+file_007=MPLAB C32 Headers
+file_008=Project Specific Headers
+file_009=MAL General Headers
+file_010=MAL General Headers
+file_011=MAL USB Stack Headers
+file_012=MAL USB Stack Headers
+file_013=MAL USB Stack Headers
+file_014=MAL USB Stack Headers
+file_015=MAL USB Stack Headers
+file_016=MAL USB Stack Headers
+file_017=MAL USB Stack Headers
+file_018=MAL USB Stack Headers
+file_019=Project Specific Headers
+file_020=MPLAB C32 Headers
+file_021=Project Specific Headers
+file_022=Project Specific Headers
+file_023=.
+file_024=.
+[GENERATED_FILES]
+file_000=no
+file_001=no
+file_002=no
+file_003=no
+file_004=no
+file_005=no
+file_006=no
+file_007=no
+file_008=no
+file_009=no
+file_010=no
+file_011=no
+file_012=no
+file_013=no
+file_014=no
+file_015=no
+file_016=no
+file_017=no
+file_018=no
+file_019=no
+file_020=no
+file_021=no
+file_022=no
+file_023=no
+file_024=no
+[OTHER_FILES]
+file_000=no
+file_001=no
+file_002=no
+file_003=no
+file_004=no
+file_005=no
+file_006=no
+file_007=no
+file_008=no
+file_009=no
+file_010=no
+file_011=no
+file_012=no
+file_013=no
+file_014=no
+file_015=no
+file_016=no
+file_017=no
+file_018=no
+file_019=no
+file_020=no
+file_021=no
+file_022=no
+file_023=no
+file_024=no
+[FILE_INFO]
+file_000=C:\Program Files\Microchip\MPLAB C32 Suite\pic32-libs\peripheral\uart\source\uart_lib.c
+file_001=cmi_mouse.c
+file_002=usb_config.c
+file_003=C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid.c
+file_004=C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid_parser.c
+file_005=C:\Microchip Solutions\Microchip\USB\usb_host.c
+file_006=exceptions.c
+file_007=C:\Program Files\Microchip\MPLAB C32 Suite\pic32-libs\include\peripheral\uart.h
+file_008=usb_config.h
+file_009=C:\Microchip Solutions\Microchip\Include\Compiler.h
+file_010=C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h
+file_011=C:\Microchip Solutions\Microchip\Include\USB\usb.h
+file_012=C:\Microchip Solutions\Microchip\Include\USB\usb_ch9.h
+file_013=C:\Microchip Solutions\Microchip\Include\USB\usb_common.h
+file_014=C:\Microchip Solutions\Microchip\Include\USB\usb_hal.h
+file_015=C:\Microchip Solutions\Microchip\Include\USB\usb_hal_pic32.h
+file_016=C:\Microchip Solutions\Microchip\Include\USB\usb_host.h
+file_017=C:\Microchip Solutions\Microchip\Include\USB\usb_host_hid.h
+file_018=C:\Microchip Solutions\Microchip\Include\USB\usb_host_hid_parser.h
+file_019=HardwareProfile.h
+file_020=C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\include\peripheral\reset.h
+file_021=pos_II.h
+file_022=pos_IIx.h
+file_023=elf32pic32mx.ld
+file_024=mouse_procdefs.ld
+[SUITE_INFO]
+suite_guid={14495C23-81F8-43F3-8A44-859C583D7760}
+suite_state=
+[TOOL_SETTINGS]
+TS{CB0AF4B8-4022-429D-8F99-8A56782B2C6D}=-gdwarf-2
+TS{9C698E0A-CBC9-4EFF-AE7D-B569F93E7322}=-g
+TS{77F59DA1-3C53-4677-AC5F-A03EB0125170}=--defsym=_min_heap_size=8192 --defsym=_min_stack_size=8192 -Map="$(BINDIR_)$(TARGETBASE).map" -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)"
+TS{0396C0A1-9052-4E4F-8B84-EF0162B1B4E9}=
+[INSTRUMENTED_TRACE]
+enable=0
+transport=0
+format=0
+[CUSTOM_BUILD]
+Pre-Build=
+Pre-BuildEnabled=1
+Post-Build=
+Post-BuildEnabled=1
