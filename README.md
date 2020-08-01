@@ -6,8 +6,7 @@ Use a USB mouse instead of (or in conjunction with) the lightpen on a Fairlight 
   <img src="interface_photos/V2/IMG_20170923_110217.jpg" width="350" title="Version 2">
 </p>
 
-<p align="right">
-</p>
+## Firmware
 
 Some work will be needed to get the code to build with the latest Microchip MPLAB X tools,
 so I recommend installing the v8.63 release of MPLAB (pre-MPLAB X). 
