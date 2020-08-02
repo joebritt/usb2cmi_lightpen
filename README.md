@@ -49,7 +49,8 @@ machines, an adapter board is used to convert to a IIX-style connector that the 
 can connect to.
 
 <p align="middle">
-  <img src="interface_photos/V2/IMG_20200322_140614.jpg" width="550" title="Version 1">
+  <img src="interface_photos/V2/IMG_20200322_140614.jpg" width="550" title="Version 2">
+  <img src="interface_photos/V2/IMG_20200322_144535.jpg" width="550" title="Version 2">
 </p>
 
 ## Firmware
