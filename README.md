@@ -49,7 +49,7 @@ machines, an adapter board is used to convert to a IIX-style connector that the 
 can connect to.
 
 <p align="middle">
-  <img src="interface_photos/V2/IMG_20200322_140307.jpg" width="550" title="Version 1">
+  <img src="interface_photos/V2/IMG_20200322_140612.jpg" width="550" title="Version 1">
 </p>
 
 ## Firmware
