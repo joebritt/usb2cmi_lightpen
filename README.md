@@ -82,7 +82,7 @@ The PCB design tool Eagle was used for all PCBs.
 The Eagle .brd files can be easily uploaded to OSHPark (https://oshpark.com/) for fabrication. Of course, you can use any board house you like to make them.
 All boards are 2 layer, 6mil minimum trace/space, and 10mil minimum drill.
 
-The aluminum front panel (for Version 1) and the aluminum rear panel (for Version 2) were designed using Front Panel Designer and fabricated using Front Panel Express.
+The aluminum front panel (for Version 1) and the aluminum rear panel (for Version 2) were designed using Front Panel Designer and fabricated using Front Panel Express (https://www.frontpanelexpress.com/).
 Eagle was used as a crude 2D mechanical CAD for the Version 2 rear panel and the Version 2 mounting wings. 
 Board files and generated PDFs and XPS files for these are included. The XPS files were used to drive a laser cutter to make prototypes of the rear panel and to make the actual mounting wings.
 
