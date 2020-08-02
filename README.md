@@ -48,6 +48,10 @@ The CMI Series I and II have a slightly different connection to the front panel 
 machines, an adapter board is used to convert to a IIX-style connector that the interface board
 can connect to.
 
+<p align="middle">
+  <img src="interface_photos/V2/IMG_20200322_140307.jpg" width="550" title="Version 1">
+</p>
+
 ## Firmware
 
 Some work will be needed to get the code to build with the latest Microchip MPLAB X tools,
