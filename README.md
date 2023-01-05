@@ -24,6 +24,7 @@ the lightpen as normal. When you move the lightpen away from the screen, the mou
 reappear.
 
 # Version 1
+[Version 1 PCB](https://oshpark.com/shared_projects/1uISLCAx)</br>
 
 V1 is the original external box style interface. It is powered by a 5V AC adapter.
 
