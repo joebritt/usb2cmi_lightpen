@@ -35,6 +35,7 @@ unbuffered, the legacy VDU cannot (normally) be used at the same time as the RCA
 (V2 buffers the video signal to allow this use case.)
 
 # Version 2
+[Version 2 PCB](https://oshpark.com/shared_projects/5qV4mRA7)</br>
 
 V2 is an updated version that fits completely inside the CMI. It is the same core hardware design.
 
