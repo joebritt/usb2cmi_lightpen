@@ -28,6 +28,8 @@
 	authors and should not be interpreted as representing official policies, either expressed
 	or implied, of Joe Britt.
 
+	11-Nov-2025		Added support for cursor shape switch on RB2
+
 	----------------------------------------------------------------------------
 	Original Microchip header below:
 
@@ -382,6 +384,21 @@ mouse cursor.  When the real lightpen HIT pulses cease, the mouse cursor will be
 re-enabled.  So, you can freely switch back and forth between a real lightpen and the
 mouse.
 
+Rev3 / 2025 Release
+-------------------
+Built into a new enclosure (the same type used for the original USB2CMI keyboard/MIDI
+adapter), this release of the CMI Lightpen / Mouse Interface adds:
+
+- Power via standard USB (5VDC, Type B)
+- Mode switch to select one of 2 on-screen cursor shapes (A or B)
+
+The Mode switch is connected to GPIO RB2. When in the A position, the switch pulls RB2
+to Ground, so it reads 0. When in the B position, RB2 is floating, and in internal weak
+pullup pulls it high, so it reads 1.
+
+The interrupt handler to generate the cursor scanlines samples RB2 to decide which cursor
+shape table to use.
+
 */
 
 void lpe_init(void)
@@ -396,6 +413,13 @@ void lpe_init(void)
 
 	PORTBCLR = 0x0001;		// Green LED on
 
+
+	// Cursor Shape Switch on RB2
+
+	TRISBbits.TRISB2 = 1;	// RB2 is INPUT
+
+	CNPUEbits.CNPUE2 = 1;	// enable weak pullup on RB2
+	
 
 	// TOUCH in from real LP is on RF1
 	// !TOUCH out on RF0
@@ -515,7 +539,7 @@ unsigned int vsync_history[16];				// last 16 TMR23 counts at VSYNC
 #define	Y_BIAS_IIX				28			// scanline offset
 #define Y_BIAS_II				25
 
-#define	CURSOR_HEIGHT			3			// in scanlines
+//#define	CURSOR_HEIGHT			3			// in scanlines
 
 
 // We get here in response to VSYNC falling edge
@@ -588,8 +612,29 @@ void _InputCapture3Handler(void)
 
 
 
+//******************************************************************************
+// Handle HSYNC, generate cursor
+//******************************************************************************
+
 // format is ending count, starting count for scanline pulse
-unsigned int shape[CURSOR_HEIGHT][2] = { {72,24}, {64,0}, {72,24} };
+
+// Original Cursor Shape
+
+#define kSHAPE_A_HEIGHT		3
+
+unsigned int shape_A[kSHAPE_A_HEIGHT][2] = { {72,24}, {64,0}, {72,24} };
+
+
+// 2025 'B' Cursor Shape
+
+#define kSHAPE_B_HEIGHT		16
+
+#define MKLIN(_START,_END) {(_END*7),(_START*7)}
+
+unsigned int shape_B[kSHAPE_B_HEIGHT][2] = {	MKLIN(9,19),	MKLIN(7,17), 	MKLIN(5,16), 	MKLIN(4,15),
+											 	MKLIN(3,14), 	MKLIN(2,13), 	MKLIN(1,12), 	MKLIN(0,12),
+												MKLIN(0,12),	MKLIN(1,12), 	MKLIN(2,13), 	MKLIN(3,14),
+												MKLIN(4,15), 	MKLIN(5,16), 	MKLIN(7,17), 	MKLIN(9,19) 		};
 
 
 // I've noticed that CSYNC from the LM1881 seems to flap around if there is
@@ -641,14 +686,29 @@ void _InputCapture2Handler(void)
 		pos += adjust;
 #endif
 
-		OpenOC2( OC_ON | OC_TIMER_MODE32 | OC_TIMER2_SRC | OC_SINGLE_PULSE, 
-								pos+shape[drawnLines][0], pos+shape[drawnLines][1] );
+		if(PORTBbits.RB2 == 0) {					// --> switch on 'A'
 
-		if ( ++drawnLines == CURSOR_HEIGHT ) {
-			cursorLine = ypos;
-			drawnLines = 0;
-		} else
-			cursorLine++;						// next scanline we want
+			OpenOC2( OC_ON | OC_TIMER_MODE32 | OC_TIMER2_SRC | OC_SINGLE_PULSE, 
+								pos+shape_A[drawnLines][0], pos+shape_A[drawnLines][1] );
+
+			if ( ++drawnLines >= kSHAPE_A_HEIGHT ) {
+				cursorLine = ypos;
+				drawnLines = 0;
+			} else
+				cursorLine++;						// next scanline we want
+		}
+		else {										// --> switch on 'B'
+
+			OpenOC2( OC_ON | OC_TIMER_MODE32 | OC_TIMER2_SRC | OC_SINGLE_PULSE, 
+								pos+shape_B[drawnLines][0], pos+shape_B[drawnLines][1] );
+
+			if ( ++drawnLines >= kSHAPE_B_HEIGHT ) {
+				cursorLine = ypos;
+				drawnLines = 0;
+			} else
+				cursorLine++;						// next scanline we want
+		}
+
 	} 
 
 	/* ----- toggle HSYNC capture on/off to clear any possible overflow error ----- */

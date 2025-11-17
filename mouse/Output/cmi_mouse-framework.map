@@ -1,0 +1,1437 @@
+Archive member included because of file (symbol)
+
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memcpy.o)
+                              ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid_parser.o (memcpy)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(general-exception.o)
+                              C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o (_general_exception_context)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+                              C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o (exit)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+                              ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid.o (free)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(errno.o)
+                              C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o) (errno)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+                              C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o) (getpagesize)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+                              C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o (_bootstrap_exception_handler)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+                              C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o (_on_reset)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+                              C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o (_on_bootstrap)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-nmi-handler.o)
+                              C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o (_nmi_handler)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+                              C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o) (_exit)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memset.o)
+                              C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o) (memset)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                              C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o) (pthread_mutex_lock)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(soft_reset_lib.o)
+                              ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\exceptions.o (SoftReset)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(pcache.o)
+                              ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o (CheKseg0CacheOn)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_configure_system_lib.o)
+                              ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o (INTConfigureSystem)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_interrupts_lib.o)
+                              ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o (INTEnableInterrupts)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_disable_interrupts_lib.o)
+                              ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o (INTDisableInterrupts)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_restore_interrupts_lib.o)
+                              ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o (INTRestoreInterrupts)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_mv_int_lib.o)
+                              ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o (INTEnableSystemMultiVectoredInt)
+C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+                              ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o (INTClearFlag)
+
+Allocating common symbols
+Common symbol       size              file
+
+xpos_jitter         0x2               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+mouse_left_button   0x4               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+xpos                0x2               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+show_cursor         0x4               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+ErrorDriver         0x1               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+blinker             0x4               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+gpad_y              0x2               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+Appl_Mouse_Buttons_Details
+                    0xa               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+real_hit_count_last
+                    0x4               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+pos                 0x4               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+NumOfBytesRcvd      0x1               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+ErrorCounter        0x1               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+y_bias              0x4               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+lastStat            0x4               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+Appl_XY_report_buffer
+                    0x10              ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+cursorLine          0x4               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+drawnLines          0x4               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+Appl_XY_Axis_Details
+                    0xa               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+real_hit_count_now  0x4               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+vsync_history       0x40              ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+usbOverrideHostState
+                    0x2               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+show_cursor_gpad    0x4               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+lineCount           0x4               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+pos_tbl             0x4               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+Appl_Button_report_buffer
+                    0x10              ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+ypos                0x2               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+Appl_raw_report_buffer
+                    0xa               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+gpad_x              0x2               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+ReportBufferUpdated
+                    0x4               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+lastVSYNC           0x4               ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+pos_history         0x40              ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+
+Microchip PIC32 Memory-Usage Report
+
+kseg0 Program-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.text                   0x9d00f000         0xe680       59008  Application's executable code 
+.rodata                 0x9d01d680          0x74c        1868  Read-only constant data 
+.data                   0x9d01ddcc         0x1464        5220  Data-initialization template 
+.sdata                  0x9d01f230            0x8           8  Small data-initialization template 
+      Total kseg0_program_mem used  :     0x10238       66104  94.9% of 0x11000
+
+kseg0 Boot-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.startup                0x9d00d000          0x1e0         480  C startup code 
+         Total kseg0_boot_mem used  :       0x1e0         480  11.7% of 0x1000
+
+Exception-Memory Usage 
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.app_excpt              0x9d00e180           0x10          16  General-Exception handler 
+.vector_3               0x9d00e260            0x8           8  Interrupt Vector 3 
+.vector_9               0x9d00e320            0x8           8  Interrupt Vector 9 
+.vector_13              0x9d00e3a0            0x8           8  Interrupt Vector 13 
+.vector_45              0x9d00e7a0            0x8           8  Interrupt Vector 45 
+          Total exception_mem used  :        0x30          48  1.2% of 0x1000
+
+kseg1 Boot-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.reset                  0xbfc00000           0x10          16  Reset handler 
+.bev_excpt              0xbfc00380           0x10          16  BEV-Exception handler 
+         Total kseg1_boot_mem used  :        0x20          32  2.7% of 0x490
+        --------------------------------------------------------------------------
+         Total Program Memory used  :     0x10468       66664  84.4% of 0x13490
+        --------------------------------------------------------------------------
+
+
+kseg1 Data-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.data                   0xa0000000         0x1464        5220  Initialized data 
+.sdata                  0xa0001464            0x8           8  Small initialized data 
+.sbss                   0xa000146c           0xaa         170  Small uninitialized data 
+.bss                    0xa0001600          0x520        1312  Uninitialized data 
+.stack                  0xa0001b20          0x400        1024  Minimum space reserved for stack 
+         Total kseg1_data_mem used  :      0x1e36        7734  23.6% of 0x8000
+        --------------------------------------------------------------------------
+            Total Data Memory used  :      0x1e36        7734  23.6% of 0x8000
+        --------------------------------------------------------------------------
+
+Discarded input sections
+
+ .reginfo       0x00000000       0x18 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\uart_lib.o
+ .reginfo       0x00000000       0x18 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+ .reginfo       0x00000000       0x18 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_config.o
+ .reginfo       0x00000000       0x18 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid.o
+ .reginfo       0x00000000       0x18 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid_parser.o
+ .reginfo       0x00000000       0x18 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+ .reginfo       0x00000000       0x18 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\exceptions.o
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/./proc/32MX440F128H\processor.o
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memcpy.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(general-exception.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(errno.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-nmi-handler.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memset.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(soft_reset_lib.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(pcache.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_configure_system_lib.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_interrupts_lib.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_disable_interrupts_lib.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_restore_interrupts_lib.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_mv_int_lib.o)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+kseg0_program_mem 0x9d00f000         0x00011000         xr
+kseg0_boot_mem   0x9d00d000         0x00001000
+exception_mem    0x9d00e000         0x00001000
+kseg1_boot_mem   0xbfc00000         0x00000490
+debug_exec_mem   0xbfc02000         0x00000ff0
+config3          0xbfc02ff0         0x00000004
+config2          0xbfc02ff4         0x00000004
+config1          0xbfc02ff8         0x00000004
+config0          0xbfc02ffc         0x00000004
+kseg1_data_mem   0xa0000000         0x00008000         w !x
+sfrs             0xbf800000         0x00100000
+configsfrs       0xbfc02ff0         0x00000010
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+LOAD ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\uart_lib.o
+LOAD ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+LOAD ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_config.o
+LOAD ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid.o
+LOAD ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid_parser.o
+LOAD ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+LOAD ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\exceptions.o
+                0x00000400                PROVIDE (_min_stack_size, 0x400)
+                0x00000000                PROVIDE (_min_heap_size, 0x0)
+LOAD C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/./proc/32MX440F128H\processor.o
+                0x00000001                PROVIDE (_vector_spacing, 0x1)
+                0x9d00e000                _ebase_address = 0x9d00e000
+                0xbfc00000                _RESET_ADDR = 0xbfc00000
+                0xbfc00380                _BEV_EXCPT_ADDR = 0xbfc00380
+                0xbfc00480                _DBG_EXCPT_ADDR = 0xbfc00480
+                0xbfc02000                _DBG_CODE_ADDR = 0xbfc02000
+                0x9d00e180                _GEN_EXCPT_ADDR = (_ebase_address + 0x180)
+
+.config_BFC02FF0
+ *(.config_BFC02FF0)
+
+.config_BFC02FF4
+                0xbfc02ff4        0x4
+ *(.config_BFC02FF4)
+ .config_BFC02FF4
+                0xbfc02ff4        0x4 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+
+.config_BFC02FF8
+                0xbfc02ff8        0x4
+ *(.config_BFC02FF8)
+ .config_BFC02FF8
+                0xbfc02ff8        0x4 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+
+.config_BFC02FFC
+                0xbfc02ffc        0x4
+ *(.config_BFC02FFC)
+ .config_BFC02FFC
+                0xbfc02ffc        0x4 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+
+.reset          0xbfc00000       0x10
+ *(.reset)
+ .reset         0xbfc00000       0x10 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+                0xbfc00000                _reset
+
+.bev_excpt      0xbfc00380       0x10
+ *(.bev_handler)
+ .bev_handler   0xbfc00380       0x10 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+
+.dbg_excpt      0xbfc00480        0x0
+                0xbfc00480                . = (. + DEFINED (_DEBUGGER)?0x8:0x0)
+
+.dbg_code       0xbfc02000        0x0
+                0xbfc02000                . = (. + DEFINED (_DEBUGGER)?0xff0:0x0)
+
+.app_excpt      0x9d00e180       0x10
+ *(.gen_handler)
+ .gen_handler   0x9d00e180       0x10 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+
+.vector_0       0x9d00e200        0x0
+ *(.vector_0)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_0) <= (_vector_spacing << 0x5))), function at exception vector 0 too large)
+
+.vector_1       0x9d00e220        0x0
+ *(.vector_1)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_1) <= (_vector_spacing << 0x5))), function at exception vector 1 too large)
+
+.vector_2       0x9d00e240        0x0
+ *(.vector_2)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_2) <= (_vector_spacing << 0x5))), function at exception vector 2 too large)
+
+.vector_3       0x9d00e260        0x8
+ *(.vector_3)
+ .vector_3      0x9d00e260        0x8 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_3) <= (_vector_spacing << 0x5))), function at exception vector 3 too large)
+
+.vector_4       0x9d00e280        0x0
+ *(.vector_4)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_4) <= (_vector_spacing << 0x5))), function at exception vector 4 too large)
+
+.vector_5       0x9d00e2a0        0x0
+ *(.vector_5)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_5) <= (_vector_spacing << 0x5))), function at exception vector 5 too large)
+
+.vector_6       0x9d00e2c0        0x0
+ *(.vector_6)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_6) <= (_vector_spacing << 0x5))), function at exception vector 6 too large)
+
+.vector_7       0x9d00e2e0        0x0
+ *(.vector_7)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_7) <= (_vector_spacing << 0x5))), function at exception vector 7 too large)
+
+.vector_8       0x9d00e300        0x0
+ *(.vector_8)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_8) <= (_vector_spacing << 0x5))), function at exception vector 8 too large)
+
+.vector_9       0x9d00e320        0x8
+ *(.vector_9)
+ .vector_9      0x9d00e320        0x8 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_9) <= (_vector_spacing << 0x5))), function at exception vector 9 too large)
+
+.vector_10      0x9d00e340        0x0
+ *(.vector_10)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_10) <= (_vector_spacing << 0x5))), function at exception vector 10 too large)
+
+.vector_11      0x9d00e360        0x0
+ *(.vector_11)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_11) <= (_vector_spacing << 0x5))), function at exception vector 11 too large)
+
+.vector_12      0x9d00e380        0x0
+ *(.vector_12)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_12) <= (_vector_spacing << 0x5))), function at exception vector 12 too large)
+
+.vector_13      0x9d00e3a0        0x8
+ *(.vector_13)
+ .vector_13     0x9d00e3a0        0x8 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_13) <= (_vector_spacing << 0x5))), function at exception vector 13 too large)
+
+.vector_14      0x9d00e3c0        0x0
+ *(.vector_14)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_14) <= (_vector_spacing << 0x5))), function at exception vector 14 too large)
+
+.vector_15      0x9d00e3e0        0x0
+ *(.vector_15)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_15) <= (_vector_spacing << 0x5))), function at exception vector 15 too large)
+
+.vector_16      0x9d00e400        0x0
+ *(.vector_16)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_16) <= (_vector_spacing << 0x5))), function at exception vector 16 too large)
+
+.vector_17      0x9d00e420        0x0
+ *(.vector_17)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_17) <= (_vector_spacing << 0x5))), function at exception vector 17 too large)
+
+.vector_18      0x9d00e440        0x0
+ *(.vector_18)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_18) <= (_vector_spacing << 0x5))), function at exception vector 18 too large)
+
+.vector_19      0x9d00e460        0x0
+ *(.vector_19)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_19) <= (_vector_spacing << 0x5))), function at exception vector 19 too large)
+
+.vector_20      0x9d00e480        0x0
+ *(.vector_20)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_20) <= (_vector_spacing << 0x5))), function at exception vector 20 too large)
+
+.vector_21      0x9d00e4a0        0x0
+ *(.vector_21)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_21) <= (_vector_spacing << 0x5))), function at exception vector 21 too large)
+
+.vector_22      0x9d00e4c0        0x0
+ *(.vector_22)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_22) <= (_vector_spacing << 0x5))), function at exception vector 22 too large)
+
+.vector_23      0x9d00e4e0        0x0
+ *(.vector_23)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_23) <= (_vector_spacing << 0x5))), function at exception vector 23 too large)
+
+.vector_24      0x9d00e500        0x0
+ *(.vector_24)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_24) <= (_vector_spacing << 0x5))), function at exception vector 24 too large)
+
+.vector_25      0x9d00e520        0x0
+ *(.vector_25)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_25) <= (_vector_spacing << 0x5))), function at exception vector 25 too large)
+
+.vector_26      0x9d00e540        0x0
+ *(.vector_26)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_26) <= (_vector_spacing << 0x5))), function at exception vector 26 too large)
+
+.vector_27      0x9d00e560        0x0
+ *(.vector_27)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_27) <= (_vector_spacing << 0x5))), function at exception vector 27 too large)
+
+.vector_28      0x9d00e580        0x0
+ *(.vector_28)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_28) <= (_vector_spacing << 0x5))), function at exception vector 28 too large)
+
+.vector_29      0x9d00e5a0        0x0
+ *(.vector_29)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_29) <= (_vector_spacing << 0x5))), function at exception vector 29 too large)
+
+.vector_30      0x9d00e5c0        0x0
+ *(.vector_30)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_30) <= (_vector_spacing << 0x5))), function at exception vector 30 too large)
+
+.vector_31      0x9d00e5e0        0x0
+ *(.vector_31)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_31) <= (_vector_spacing << 0x5))), function at exception vector 31 too large)
+
+.vector_32      0x9d00e600        0x0
+ *(.vector_32)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_32) <= (_vector_spacing << 0x5))), function at exception vector 32 too large)
+
+.vector_33      0x9d00e620        0x0
+ *(.vector_33)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_33) <= (_vector_spacing << 0x5))), function at exception vector 33 too large)
+
+.vector_34      0x9d00e640        0x0
+ *(.vector_34)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_34) <= (_vector_spacing << 0x5))), function at exception vector 34 too large)
+
+.vector_35      0x9d00e660        0x0
+ *(.vector_35)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_35) <= (_vector_spacing << 0x5))), function at exception vector 35 too large)
+
+.vector_36      0x9d00e680        0x0
+ *(.vector_36)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_36) <= (_vector_spacing << 0x5))), function at exception vector 36 too large)
+
+.vector_37      0x9d00e6a0        0x0
+ *(.vector_37)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_37) <= (_vector_spacing << 0x5))), function at exception vector 37 too large)
+
+.vector_38      0x9d00e6c0        0x0
+ *(.vector_38)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_38) <= (_vector_spacing << 0x5))), function at exception vector 38 too large)
+
+.vector_39      0x9d00e6e0        0x0
+ *(.vector_39)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_39) <= (_vector_spacing << 0x5))), function at exception vector 39 too large)
+
+.vector_40      0x9d00e700        0x0
+ *(.vector_40)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_40) <= (_vector_spacing << 0x5))), function at exception vector 40 too large)
+
+.vector_41      0x9d00e720        0x0
+ *(.vector_41)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_41) <= (_vector_spacing << 0x5))), function at exception vector 41 too large)
+
+.vector_42      0x9d00e740        0x0
+ *(.vector_42)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_42) <= (_vector_spacing << 0x5))), function at exception vector 42 too large)
+
+.vector_43      0x9d00e760        0x0
+ *(.vector_43)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_43) <= (_vector_spacing << 0x5))), function at exception vector 43 too large)
+
+.vector_44      0x9d00e780        0x0
+ *(.vector_44)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_44) <= (_vector_spacing << 0x5))), function at exception vector 44 too large)
+
+.vector_45      0x9d00e7a0        0x8
+ *(.vector_45)
+ .vector_45     0x9d00e7a0        0x8 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_45) <= (_vector_spacing << 0x5))), function at exception vector 45 too large)
+
+.vector_46      0x9d00e7c0        0x0
+ *(.vector_46)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_46) <= (_vector_spacing << 0x5))), function at exception vector 46 too large)
+
+.vector_47      0x9d00e7e0        0x0
+ *(.vector_47)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_47) <= (_vector_spacing << 0x5))), function at exception vector 47 too large)
+
+.vector_48      0x9d00e800        0x0
+ *(.vector_48)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_48) <= (_vector_spacing << 0x5))), function at exception vector 48 too large)
+
+.vector_49      0x9d00e820        0x0
+ *(.vector_49)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_49) <= (_vector_spacing << 0x5))), function at exception vector 49 too large)
+
+.vector_50      0x9d00e840        0x0
+ *(.vector_50)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_50) <= (_vector_spacing << 0x5))), function at exception vector 50 too large)
+
+.vector_51      0x9d00e860        0x0
+ *(.vector_51)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_51) <= (_vector_spacing << 0x5))), function at exception vector 51 too large)
+
+.vector_52      0x9d00e880        0x0
+ *(.vector_52)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_52) <= (_vector_spacing << 0x5))), function at exception vector 52 too large)
+
+.vector_53      0x9d00e8a0        0x0
+ *(.vector_53)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_53) <= (_vector_spacing << 0x5))), function at exception vector 53 too large)
+
+.vector_54      0x9d00e8c0        0x0
+ *(.vector_54)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_54) <= (_vector_spacing << 0x5))), function at exception vector 54 too large)
+
+.vector_55      0x9d00e8e0        0x0
+ *(.vector_55)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_55) <= (_vector_spacing << 0x5))), function at exception vector 55 too large)
+
+.vector_56      0x9d00e900        0x0
+ *(.vector_56)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_56) <= (_vector_spacing << 0x5))), function at exception vector 56 too large)
+
+.vector_57      0x9d00e920        0x0
+ *(.vector_57)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_57) <= (_vector_spacing << 0x5))), function at exception vector 57 too large)
+
+.vector_58      0x9d00e940        0x0
+ *(.vector_58)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_58) <= (_vector_spacing << 0x5))), function at exception vector 58 too large)
+
+.vector_59      0x9d00e960        0x0
+ *(.vector_59)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_59) <= (_vector_spacing << 0x5))), function at exception vector 59 too large)
+
+.vector_60      0x9d00e980        0x0
+ *(.vector_60)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_60) <= (_vector_spacing << 0x5))), function at exception vector 60 too large)
+
+.vector_61      0x9d00e9a0        0x0
+ *(.vector_61)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_61) <= (_vector_spacing << 0x5))), function at exception vector 61 too large)
+
+.vector_62      0x9d00e9c0        0x0
+ *(.vector_62)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_62) <= (_vector_spacing << 0x5))), function at exception vector 62 too large)
+
+.vector_63      0x9d00e9e0        0x0
+ *(.vector_63)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_63) <= (_vector_spacing << 0x5))), function at exception vector 63 too large)
+
+.startup        0x9d00d000      0x1e0
+ *(.startup)
+ .startup       0x9d00d000      0x1e0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+
+.text           0x9d00f000     0xe680
+                0x9d00f000                _text_begin = .
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x9d00f000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+ .text          0x9d00f018      0x4c4 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\uart_lib.o
+                0x9d00f018                UARTEnable
+                0x9d00f12c                UARTConfigure
+                0x9d00f1ac                UARTSetFifoMode
+                0x9d00f208                UARTSetDataRate
+                0x9d00f2f4                UARTGetDataRate
+                0x9d00f390                UARTSetLineControl
+                0x9d00f3ec                UARTSetAddress
+                0x9d00f46c                UARTWatchForAddress
+ .text          0x9d00f4dc     0x1964 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+                0x9d00f4dc                USB_ApplicationEventHandler
+                0x9d00f698                lpe_init
+                0x9d00f970                _InputCapture3Handler
+                0x9d00fbe8                _InputCapture2Handler
+                0x9d00fe6c                _Int0Handler
+                0x9d00ffac                Init_UART2
+                0x9d010020                SendByte_UART2
+                0x9d0100f0                Send_GPad_Packet
+                0x9d0101f4                main
+                0x9d01083c                App_ProcessInputReport
+                0x9d010a6c                App_Detect_Device
+                0x9d010aac                USB_HID_DataCollectionHandler
+ .text          0x9d010e40        0x0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_config.o
+ .text          0x9d010e40     0x2f4c ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid.o
+                0x9d010e40                USBHostHIDDeviceDetect
+                0x9d010f18                USBHostHIDDeviceStatus
+                0x9d0110d0                USBHostHIDResetDevice
+                0x9d01124c                USBHostHIDResetDeviceWithWait
+                0x9d011328                USBHostHIDTasks
+                0x9d012224                USBHostHIDTerminateTransfer
+                0x9d012368                USBHostHIDTransfer
+                0x9d0128ac                USBHostHIDTransferIsComplete
+                0x9d0129f4                USBHostHID_ApiFindBit
+                0x9d012ca0                USBHostHID_ApiFindValue
+                0x9d012f98                USBHostHID_ApiGetCurrentInterfaceNum
+                0x9d012fc4                USBHostHID_ApiImportData
+                0x9d0132f4                USBHostHIDEventHandler
+                0x9d01348c                USBHostHIDInitialize
+                0x9d013a34                _USBHostHID_FreeRptDecriptorDataMem
+                0x9d013b64                _USBHostHID_ResetStateJump
+ .text          0x9d013d8c     0x2474 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid_parser.o
+                0x9d013d8c                _USBHostHID_Parse_Report
+                0x9d015ea0                USBHostHID_HasUsage
+ .text          0x9d016200     0x5fc4 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+                0x9d016200                USBHostClearEndpointErrors
+                0x9d0162c0                USBHostDeviceSpecificClientDriver
+                0x9d0162fc                USBHostDeviceStatus
+                0x9d0163d4                USBHostInit
+                0x9d0164b8                USBHostIssueDeviceRequest
+                0x9d016808                USBHostRead
+                0x9d0169ac                USBHostResetDevice
+                0x9d016a2c                USBHostResumeDevice
+                0x9d016ab4                USBHostSetDeviceConfiguration
+                0x9d016b90                USBHostSetNAKTimeout
+                0x9d016c5c                USBHostShutdown
+                0x9d016cfc                USBHostSuspendDevice
+                0x9d016d94                USBHostTasks
+                0x9d018a9c                USBHostTerminateTransfer
+                0x9d018b38                USBHostTransferIsComplete
+                0x9d018cac                USBHostVbusEvent
+                0x9d018d6c                USBHostWrite
+                0x9d018f10                _USB_CheckCommandAndEnumerationAttempts
+                0x9d018fc8                _USB_FindClassDriver
+                0x9d0190f8                _USB_FindDeviceLevelClientDriver
+                0x9d019390                _USB_FindEndpoint
+                0x9d019468                _USB_FindNextToken
+                0x9d019c9c                _USB_FindServiceEndpoint
+                0x9d019e94                _USB_FreeConfigMemory
+                0x9d019ff8                _USB_FreeMemory
+                0x9d01a0cc                _USB_InitControlRead
+                0x9d01a1d8                _USB_InitControlWrite
+                0x9d01a304                _USB_InitRead
+                0x9d01a430                _USB_InitWrite
+                0x9d01a55c                _USB_NotifyClients
+                0x9d01a6a0                _USB_ParseConfigurationDescriptor
+                0x9d01aeb4                _USB_ResetDATA0
+                0x9d01afc0                _USB_SendToken
+                0x9d01b0c0                _USB_SetBDT
+                0x9d01b42c                _USB_TransferInProgress
+                0x9d01b534                _USB1Interrupt
+ .text          0x9d01c1c4       0x18 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\exceptions.o
+                0x9d01c1c4                _general_exception_handler
+ .text          0x9d01c1dc        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/./proc/32MX440F128H\processor.o
+ .text          0x9d01c1dc      0x168 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memcpy.o)
+                0x9d01c1dc                memcpy
+ .text          0x9d01c344        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(general-exception.o)
+ .text.general_exception
+                0x9d01c344       0xd0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(general-exception.o)
+                0x9d01c344                _general_exception_context
+ .text          0x9d01c414        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .text.exit     0x9d01c414       0x10 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+                0x9d01c414                exit
+ .text          0x9d01c424        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+ .text.malloc_trim
+                0x9d01c424      0x114 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+                0x9d01c424                malloc_trim
+ .text.free     0x9d01c538      0x24c C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+                0x9d01c538                free
+ .text.malloc   0x9d01c784      0x758 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+                0x9d01c784                malloc
+ .text          0x9d01cedc        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(errno.o)
+ .text          0x9d01cedc        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .text.getpagesize
+                0x9d01cedc        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+                0x9d01cedc                getpagesize
+ .text._stub_sbd_memlayout
+                0x9d01cee4       0x2c C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+                0x9d01cee4                _sbd_memlayout
+                0x9d01cee4                _stub_sbd_memlayout
+ .text._sbrk_init
+                0x9d01cf10      0x168 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+                0x9d01cf10                _sbrk_init
+ .text._sbrk    0x9d01d078       0xe8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+                0x9d01d078                _sbrk
+ .text.sbrk     0x9d01d160       0x5c C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+                0x9d01d160                sbrk
+ .text          0x9d01d1bc        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .text._bootstrap_exception_handler
+                0x9d01d1bc        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+                0x9d01d1bc                _bootstrap_exception_handler
+ .text          0x9d01d1c4        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .text._on_reset
+                0x9d01d1c4        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+                0x9d01d1c4                _on_reset
+ .text          0x9d01d1cc        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .text._on_bootstrap
+                0x9d01d1cc        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+                0x9d01d1cc                _on_bootstrap
+ .text          0x9d01d1d4       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-nmi-handler.o)
+                0x9d01d1d4                _nmi_handler
+ .text          0x9d01d1ec        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .text._exit    0x9d01d1ec        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+                0x9d01d1ec                _exit
+ .text          0x9d01d1f4       0xa8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memset.o)
+                0x9d01d1f4                memset
+ .text          0x9d01d29c        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .text._weak_pthread_mutex_init
+                0x9d01d29c        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d29c                pthread_mutex_init
+                0x9d01d29c                _weak_pthread_mutex_init
+ .text._weak_pthread_mutex_destroy
+                0x9d01d2a4        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d2a4                pthread_mutex_destroy
+                0x9d01d2a4                _weak_pthread_mutex_destroy
+ .text._weak_pthread_mutex_lock
+                0x9d01d2ac        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d2ac                pthread_mutex_lock
+                0x9d01d2ac                _weak_pthread_mutex_lock
+ .text._weak_pthread_mutex_trylock
+                0x9d01d2b4        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d2b4                pthread_mutex_trylock
+                0x9d01d2b4                _weak_pthread_mutex_trylock
+ .text._weak_pthread_mutex_unlock
+                0x9d01d2bc        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d2bc                pthread_mutex_unlock
+                0x9d01d2bc                _weak_pthread_mutex_unlock
+ .text._weak_pthread_mutex_setname_np
+                0x9d01d2c4        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d2c4                _weak_pthread_mutex_setname_np
+                0x9d01d2c4                pthread_mutex_setname_np
+ .text._weak_pthread_mutexattr_init
+                0x9d01d2cc        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d2cc                pthread_mutexattr_init
+                0x9d01d2cc                _weak_pthread_mutexattr_init
+ .text._weak_pthread_mutexattr_destroy
+                0x9d01d2d4        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d2d4                _weak_pthread_mutexattr_destroy
+                0x9d01d2d4                pthread_mutexattr_destroy
+ .text._weak_pthread_mutexattr_setname_np
+                0x9d01d2dc        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d2dc                pthread_mutexattr_setname_np
+                0x9d01d2dc                _weak_pthread_mutexattr_setname_np
+ .text._weak_pthread_mutexattr_settype_np
+                0x9d01d2e4        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d2e4                pthread_mutexattr_settype_np
+                0x9d01d2e4                _weak_pthread_mutexattr_settype_np
+ .text._weak_pthread_sysconf_np
+                0x9d01d2ec        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d2ec                pthread_sysconf_np
+                0x9d01d2ec                _weak_pthread_sysconf_np
+ .text._weak_pthread_sigdisable_np
+                0x9d01d2f4        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d2f4                pthread_sigdisable_np
+                0x9d01d2f4                _weak_pthread_sigdisable_np
+ .text._weak_pthread_sigrestore_np
+                0x9d01d2fc        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d2fc                _weak_pthread_sigrestore_np
+                0x9d01d2fc                pthread_sigrestore_np
+ .text._weak__pthread_cleanup_push
+                0x9d01d304        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d304                _pthread_cleanup_push
+                0x9d01d304                _weak__pthread_cleanup_push
+ .text._weak__pthread_cleanup_pop
+                0x9d01d30c        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d30c                _weak__pthread_cleanup_pop
+                0x9d01d30c                _pthread_cleanup_pop
+ .text._weak__pthread_cleanup_push_defer
+                0x9d01d314        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d314                _pthread_cleanup_push_defer
+                0x9d01d314                _weak__pthread_cleanup_push_defer
+ .text._weak__pthread_cleanup_pop_restore
+                0x9d01d31c        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d31c                _weak__pthread_cleanup_pop_restore
+                0x9d01d31c                _pthread_cleanup_pop_restore
+ .text._weak_pthread_once
+                0x9d01d324       0x2c C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d324                pthread_once
+                0x9d01d324                _pthread_once
+                0x9d01d324                _weak_pthread_once
+ .text._weak_pthread_key_create
+                0x9d01d350        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d350                _weak_pthread_key_create
+                0x9d01d350                pthread_key_create
+ .text._weak_pthread_setspecific
+                0x9d01d358        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d358                pthread_setspecific
+                0x9d01d358                _weak_pthread_setspecific
+ .text._weak_pthread_getspecific
+                0x9d01d360        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d360                _weak_pthread_getspecific
+                0x9d01d360                pthread_getspecific
+ .text._weak__libc_private_storage
+                0x9d01d368        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01d368                _weak__libc_private_storage
+                0x9d01d368                _libc_private_storage
+ .text          0x9d01d370        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(soft_reset_lib.o)
+ .text.SoftReset
+                0x9d01d370       0x78 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(soft_reset_lib.o)
+                0x9d01d370                SoftReset
+ .text          0x9d01d3e8        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(pcache.o)
+ .text.CheKseg0CacheOff
+                0x9d01d3e8       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(pcache.o)
+                0x9d01d3e8                CheKseg0CacheOff
+ .text.CheKseg0CacheOn
+                0x9d01d400       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(pcache.o)
+                0x9d01d400                CheKseg0CacheOn
+ .text          0x9d01d418        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_configure_system_lib.o)
+ .text.INTConfigureSystem
+                0x9d01d418       0x34 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_configure_system_lib.o)
+                0x9d01d418                INTConfigureSystem
+ .text          0x9d01d44c        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_interrupts_lib.o)
+ .text.INTEnableInterrupts
+                0x9d01d44c        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_interrupts_lib.o)
+                0x9d01d44c                INTEnableInterrupts
+ .text          0x9d01d454        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_disable_interrupts_lib.o)
+ .text.INTDisableInterrupts
+                0x9d01d454        0x8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_disable_interrupts_lib.o)
+                0x9d01d454                INTDisableInterrupts
+ .text          0x9d01d45c        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_restore_interrupts_lib.o)
+ .text.INTRestoreInterrupts
+                0x9d01d45c       0x1c C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_restore_interrupts_lib.o)
+                0x9d01d45c                INTRestoreInterrupts
+ .text          0x9d01d478        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_mv_int_lib.o)
+ .text.INTEnableSystemMultiVectoredInt
+                0x9d01d478       0x34 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_mv_int_lib.o)
+                0x9d01d478                INTEnableSystemMultiVectoredInt
+ .text          0x9d01d4ac        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+ .text.INTClearFlag
+                0x9d01d4ac       0x2c C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+                0x9d01d4ac                INTClearFlag
+ .text.INTSetFlag
+                0x9d01d4d8       0x2c C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+                0x9d01d4d8                INTSetFlag
+ .text.INTGetFlag
+                0x9d01d504       0x2c C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+                0x9d01d504                INTGetFlag
+ .text.INTEnable
+                0x9d01d530       0x44 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+                0x9d01d530                INTEnable
+ .text.INTGetEnable
+                0x9d01d574       0x2c C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+                0x9d01d574                INTGetEnable
+ .text.INTSetVectorPriority
+                0x9d01d5a0       0x40 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+                0x9d01d5a0                INTSetVectorPriority
+ .text.INTGetVectorPriority
+                0x9d01d5e0       0x30 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+                0x9d01d5e0                INTGetVectorPriority
+ .text.INTSetVectorSubPriority
+                0x9d01d610       0x40 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+                0x9d01d610                INTSetVectorSubPriority
+ .text.INTGetVectorSubPriority
+                0x9d01d650       0x30 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+                0x9d01d650                INTGetVectorSubPriority
+ *(.text.*personality*)
+ *(.gnu.warning)
+ *(.mips16.fn.*)
+ *(.mips16.call.*)
+                0x9d01d680                _text_end = .
+
+.rodata         0x9d01d680      0x74c
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x9d01d680        0x8 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\uart_lib.o
+                0x9d01d680                uartReg
+ .rodata        0x9d01d688       0x14 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+ .rodata        0x9d01d69c       0x14 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid.o
+ .rodata        0x9d01d6b0       0xa8 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid_parser.o
+ .rodata        0x9d01d758      0x14c ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+ .rodata        0x9d01d8a4      0x528 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+                0x9d01d8a4                __IntVectorTbl
+                0x9d01dacc                __IntSrcTbl
+ *(.rodata1)
+                0x9d01ddcc                . = ALIGN (0x4)
+
+.rel.dyn        0x9d01ddcc        0x0
+ .rel.dyn       0x00000000        0x0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_config.o
+
+.sdata2         0x9d01ddcc        0x0
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x9d01ddcc                . = ALIGN (0x4)
+
+.sbss2          0x9d01ddcc        0x0
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+                0x9d01ddcc                . = ALIGN (0x4)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.dbg_data       0xa0000000        0x0
+                0xa0000000                . = (. + DEFINED (_DEBUGGER)?0x200:0x0)
+
+.data           0xa0000000     0x1464 load address 0x9d01ddcc
+                0xa0000000                _data_begin = .
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0xa0000000        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+ .data          0xa0000000        0x0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\uart_lib.o
+ .data          0xa0000000     0x1028 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+                0xa0000000                pixel_offsets_II
+                0xa0000800                pixel_offsets_IIx
+                0xa0001000                shape
+ .data          0xa0001028        0xc ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_config.o
+                0xa0001028                usbClientDrvTable
+ .data          0xa0001034        0x0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid.o
+ .data          0xa0001034        0x0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid_parser.o
+ .data          0xa0001034        0x0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+ .data          0xa0001034        0x0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\exceptions.o
+ .data          0xa0001034        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/./proc/32MX440F128H\processor.o
+ .data          0xa0001034        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memcpy.o)
+ .data          0xa0001034        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(general-exception.o)
+ .data          0xa0001034        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .data          0xa0001034      0x410 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+                0xa0001034                malloc_sbrk_base
+                0xa0001038                malloc_trim_threshold
+                0xa000103c                malloc_av_
+ .data          0xa0001444        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(errno.o)
+ .data          0xa0001444       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .data          0xa0001464        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .data          0xa0001464        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .data          0xa0001464        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .data          0xa0001464        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-nmi-handler.o)
+ .data          0xa0001464        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .data          0xa0001464        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memset.o)
+ .data          0xa0001464        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .data          0xa0001464        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(soft_reset_lib.o)
+ .data          0xa0001464        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(pcache.o)
+ .data          0xa0001464        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_configure_system_lib.o)
+ .data          0xa0001464        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_interrupts_lib.o)
+ .data          0xa0001464        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_disable_interrupts_lib.o)
+ .data          0xa0001464        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_restore_interrupts_lib.o)
+ .data          0xa0001464        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_mv_int_lib.o)
+ .data          0xa0001464        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+ *(.gnu.linkonce.d.*personality*)
+ *(.data1)
+                0x9d01ddcc                _data_image_begin = LOADADDR (.data)
+
+.eh_frame
+ *(.eh_frame)
+                0xa0009460                _gp = (ALIGN (0x10) + 0x7ff0)
+
+.got
+ *(.got.plt)
+ *(.got)
+
+.sdata          0xa0001464        0x8 load address 0x9d01f230
+                0xa0001464                _sdata_begin = .
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0xa0001464        0x8 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_config.o
+                0xa0001464                usbTPL
+                0xa000146c                _sdata_end = .
+
+.lit8
+ *(.lit8)
+
+.lit4
+ *(.lit4)
+                0xa000146c                . = ALIGN (0x4)
+                0xa000146c                _data_end = .
+                0xa000146c                _bss_begin = .
+
+.sbss           0xa000146c       0xaa load address 0x9d01f238
+                0xa000146c                _sbss_begin = .
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0xa000146c       0x10 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+                0xa000146c                App_State_Mouse
+                0xa0001470                vsync_history_index
+                0xa0001474                flap_count
+                0xa0001478                pos_history_index
+ .sbss          0xa000147c        0x8 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid.o
+ .sbss          0xa0001484        0x4 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid_parser.o
+                0xa0001484                parsedDataMem
+ .sbss          0xa0001488       0x28 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+                0xa0001488                pCurrentConfigurationDescriptor
+                0xa000148c                pDeviceDescriptor
+ .sbss          0xa00014b0        0xc ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\exceptions.o
+ .sbss          0xa00014bc        0x4 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(errno.o)
+                0xa00014bc                errno
+ *(.scommon)
+ .scommon       0xa00014c0       0x54 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+                0xa00014c0                xpos_jitter
+                0xa00014c4                mouse_left_button
+                0xa00014c8                xpos
+                0xa00014cc                show_cursor
+                0xa00014d0                ErrorDriver
+                0xa00014d4                blinker
+                0xa00014d8                gpad_y
+                0xa00014dc                real_hit_count_last
+                0xa00014e0                pos
+                0xa00014e4                NumOfBytesRcvd
+                0xa00014e5                ErrorCounter
+                0xa00014e8                y_bias
+                0xa00014ec                lastStat
+                0xa00014f0                cursorLine
+                0xa00014f4                drawnLines
+                0xa00014f8                real_hit_count_now
+                0xa00014fc                show_cursor_gpad
+                0xa0001500                lineCount
+                0xa0001504                pos_tbl
+                0xa0001508                ypos
+                0xa000150a                gpad_x
+                0xa000150c                ReportBufferUpdated
+                0xa0001510                lastVSYNC
+ .scommon       0xa0001514        0x2 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+                0xa0001514                usbOverrideHostState
+                0xa0001516                _sbss_end = .
+
+.bss            0xa0001600      0x520 load address 0x9d01f238
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0xa0001600        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+ .bss           0xa0001600        0x0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\uart_lib.o
+ .bss           0xa0001600        0x0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+ .bss           0xa0001600        0x0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_config.o
+ .bss           0xa0001600       0x20 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid.o
+ .bss           0xa0001620       0x88 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid_parser.o
+                0xa0001620                deviceRptInfo
+                0xa0001688                itemListPtrs
+ *fill*         0xa00016a8      0x158 00
+ .bss           0xa0001800      0x200 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+ .bss           0xa0001a00        0x0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\exceptions.o
+ .bss           0xa0001a00        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/./proc/32MX440F128H\processor.o
+ .bss           0xa0001a00        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memcpy.o)
+ .bss           0xa0001a00        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(general-exception.o)
+ .bss           0xa0001a00        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .bss           0xa0001a00       0x34 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+                0xa0001a00                malloc_current_mallinfo
+                0xa0001a28                malloc_max_total_mem
+                0xa0001a2c                malloc_max_sbrked_mem
+                0xa0001a30                malloc_top_pad
+ .bss           0xa0001a34        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(errno.o)
+ .bss           0xa0001a34       0x24 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+                0xa0001a34                _maxbrk
+                0xa0001a38                _minbrk
+ .bss           0xa0001a58        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .bss           0xa0001a58        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .bss           0xa0001a58        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .bss           0xa0001a58        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-nmi-handler.o)
+ .bss           0xa0001a58        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .bss           0xa0001a58        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memset.o)
+ .bss           0xa0001a58        0x4 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0xa0001a58                __isthreaded
+ .bss           0xa0001a5c        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(soft_reset_lib.o)
+ .bss           0xa0001a5c        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(pcache.o)
+ .bss           0xa0001a5c        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_configure_system_lib.o)
+ .bss           0xa0001a5c        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_interrupts_lib.o)
+ .bss           0xa0001a5c        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_disable_interrupts_lib.o)
+ .bss           0xa0001a5c        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_restore_interrupts_lib.o)
+ .bss           0xa0001a5c        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_mv_int_lib.o)
+ .bss           0xa0001a5c        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+ *(COMMON)
+ COMMON         0xa0001a5c       0xc4 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+                0xa0001a5c                Appl_Mouse_Buttons_Details
+                0xa0001a68                Appl_XY_report_buffer
+                0xa0001a78                Appl_XY_Axis_Details
+                0xa0001a84                vsync_history
+                0xa0001ac4                Appl_Button_report_buffer
+                0xa0001ad4                Appl_raw_report_buffer
+                0xa0001ae0                pos_history
+                0xa0001b20                . = ALIGN (0x4)
+                0xa0001b20                . = ALIGN (0x4)
+                0xa0001b20                _end = .
+                0xa0001b20                _bss_end = .
+
+.heap           0xa0001b20        0x0 load address 0x9d01f238
+                0xa0001b20                _heap = .
+                0xa0003b20                . = (. + _min_heap_size)
+
+.stack          0xa0001b20      0x400 load address 0x9d01f238
+                0xa0001b20                _splim = .
+                0xa0001b20                _SPLIM = .
+                0xa0003b20                . = (. + _min_stack_size)
+ *fill*         0xa0001b20      0x400 00
+
+.ramfunc        0xa0002000        0x0 load address 0x9d01f238
+                0xa0002000                _ramfunc_begin = .
+ *(.ramfunc .ramfunc.*)
+                0xa0002000                . = ALIGN (0x4)
+                0xa0002000                _ramfunc_end = .
+                0x9d01f238                _ramfunc_image_begin = LOADADDR (.ramfunc)
+                0x00000000                _ramfunc_length = SIZEOF (.ramfunc)
+                0x00002000                _bmxdkpba_address = (_ramfunc_begin - 0xa0000000)
+                0x00008000                _bmxdudba_address = 0x8000
+                0x00008000                _bmxdupba_address = 0x8000
+                0xa0008000                _stack = (_ramfunc_length > 0x0)?(_ramfunc_begin - 0x4):0xa0008000
+                0x00000001                ASSERT (((_min_stack_size + _min_heap_size) <= (_stack - _heap)), Not enough space to allocate both stack and heap.  Reduce heap and/or stack size.)
+
+.pdr            0x00000000     0x1220
+ *(.pdr)
+ .pdr           0x00000000       0xa0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+ .pdr           0x000000a0      0x100 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\uart_lib.o
+ .pdr           0x000001a0      0x1e0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+ .pdr           0x00000380        0x0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_config.o
+ .pdr           0x00000380      0x200 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid.o
+ .pdr           0x00000580       0xe0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid_parser.o
+ .pdr           0x00000660      0x4a0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+ .pdr           0x00000b00       0x20 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\exceptions.o
+ .pdr           0x00000b20        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/./proc/32MX440F128H\processor.o
+ .pdr           0x00000b20       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memcpy.o)
+ .pdr           0x00000b40       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(general-exception.o)
+ .pdr           0x00000b60       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .pdr           0x00000b80       0x60 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+ .pdr           0x00000be0        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(errno.o)
+ .pdr           0x00000be0       0xa0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .pdr           0x00000c80       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .pdr           0x00000ca0       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .pdr           0x00000cc0       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .pdr           0x00000ce0       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-nmi-handler.o)
+ .pdr           0x00000d00       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .pdr           0x00000d20       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memset.o)
+ .pdr           0x00000d40      0x2c0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .pdr           0x00001000       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(soft_reset_lib.o)
+ .pdr           0x00001020       0x40 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(pcache.o)
+ .pdr           0x00001060       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_configure_system_lib.o)
+ .pdr           0x00001080       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_interrupts_lib.o)
+ .pdr           0x000010a0       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_disable_interrupts_lib.o)
+ .pdr           0x000010c0       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_restore_interrupts_lib.o)
+ .pdr           0x000010e0       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_mv_int_lib.o)
+ .pdr           0x00001100      0x120 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+
+.reginfo        0x00000000       0x18
+ *(.reginfo)
+ .reginfo       0x00000000       0x18 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.mdebug.abi32   0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\uart_lib.o
+ .mdebug.abi32  0x00000000        0x0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+ .mdebug.abi32  0x00000000        0x0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_config.o
+ .mdebug.abi32  0x00000000        0x0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid.o
+ .mdebug.abi32  0x00000000        0x0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid_parser.o
+ .mdebug.abi32  0x00000000        0x0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+ .mdebug.abi32  0x00000000        0x0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\exceptions.o
+ .mdebug.abi32  0x00000000        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .mdebug.abi32  0x00000000        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+ .mdebug.abi32  0x00000000        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(errno.o)
+ .mdebug.abi32  0x00000000        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .mdebug.abi32  0x00000000        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .mdebug.abi32  0x00000000        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .mdebug.abi32  0x00000000        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .mdebug.abi32  0x00000000        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .mdebug.abi32  0x00000000        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .mdebug.abi32  0x00000000        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(soft_reset_lib.o)
+ .mdebug.abi32  0x00000000        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(pcache.o)
+ .mdebug.abi32  0x00000000        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_configure_system_lib.o)
+ .mdebug.abi32  0x00000000        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_interrupts_lib.o)
+ .mdebug.abi32  0x00000000        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_disable_interrupts_lib.o)
+ .mdebug.abi32  0x00000000        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_restore_interrupts_lib.o)
+ .mdebug.abi32  0x00000000        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_mv_int_lib.o)
+ .mdebug.abi32  0x00000000        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+
+.comment        0x00000000      0x90a
+ *(.comment)
+ .comment       0x00000000       0x50 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\uart_lib.o
+ .comment       0x00000050       0x50 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+ .comment       0x000000a0       0x50 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_config.o
+ .comment       0x000000f0       0x50 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid.o
+ .comment       0x00000140       0x50 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid_parser.o
+ .comment       0x00000190       0x50 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+ .comment       0x000001e0       0x50 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\exceptions.o
+ .comment       0x00000230       0x9d C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .comment       0x000002cd       0x50 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+ .comment       0x0000031d       0x9e C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(errno.o)
+ .comment       0x000003bb       0x9b C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .comment       0x00000456       0x50 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .comment       0x000004a6       0x50 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .comment       0x000004f6       0x50 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .comment       0x00000546       0x50 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .comment       0x00000596       0x56 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memset.o)
+ .comment       0x000005ec       0x9e C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .comment       0x0000068a       0x50 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(soft_reset_lib.o)
+ .comment       0x000006da       0x50 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(pcache.o)
+ .comment       0x0000072a       0x50 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_configure_system_lib.o)
+ .comment       0x0000077a       0x50 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_interrupts_lib.o)
+ .comment       0x000007ca       0x50 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_disable_interrupts_lib.o)
+ .comment       0x0000081a       0x50 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_restore_interrupts_lib.o)
+ .comment       0x0000086a       0x50 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_mv_int_lib.o)
+ .comment       0x000008ba       0x50 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x460
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\uart_lib.o
+ .debug_aranges
+                0x00000020       0x20 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+ .debug_aranges
+                0x00000040       0x20 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid.o
+ .debug_aranges
+                0x00000060       0x20 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid_parser.o
+ .debug_aranges
+                0x00000080       0x20 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+ .debug_aranges
+                0x000000a0       0x20 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\exceptions.o
+ .debug_aranges
+                0x000000c0       0x28 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .debug_aranges
+                0x000000e8       0x38 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+ .debug_aranges
+                0x00000120       0x48 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .debug_aranges
+                0x00000168       0x28 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_aranges
+                0x00000190       0x28 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_aranges
+                0x000001b8       0x28 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_aranges
+                0x000001e0       0x28 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .debug_aranges
+                0x00000208       0xd0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .debug_aranges
+                0x000002d8       0x28 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(soft_reset_lib.o)
+ .debug_aranges
+                0x00000300       0x30 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(pcache.o)
+ .debug_aranges
+                0x00000330       0x28 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_configure_system_lib.o)
+ .debug_aranges
+                0x00000358       0x28 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_interrupts_lib.o)
+ .debug_aranges
+                0x00000380       0x28 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_disable_interrupts_lib.o)
+ .debug_aranges
+                0x000003a8       0x28 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_restore_interrupts_lib.o)
+ .debug_aranges
+                0x000003d0       0x28 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_mv_int_lib.o)
+ .debug_aranges
+                0x000003f8       0x68 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+
+.debug_pubnames
+                0x00000000     0x1132
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0xbd ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\uart_lib.o
+ .debug_pubnames
+                0x000000bd      0x3aa ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+ .debug_pubnames
+                0x00000467       0x33 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_config.o
+ .debug_pubnames
+                0x0000049a      0x1e7 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid.o
+ .debug_pubnames
+                0x00000681       0x7c ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid_parser.o
+ .debug_pubnames
+                0x000006fd      0x3e6 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+ .debug_pubnames
+                0x00000ae3       0x31 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\exceptions.o
+ .debug_pubnames
+                0x00000b14       0x1b C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .debug_pubnames
+                0x00000b2f       0x36 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+ .debug_pubnames
+                0x00000b65       0x5c C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .debug_pubnames
+                0x00000bc1       0x33 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_pubnames
+                0x00000bf4       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_pubnames
+                0x00000c14       0x24 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_pubnames
+                0x00000c38       0x1c C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .debug_pubnames
+                0x00000c54      0x2da C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .debug_pubnames
+                0x00000f2e       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(soft_reset_lib.o)
+ .debug_pubnames
+                0x00000f4e       0x3b C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(pcache.o)
+ .debug_pubnames
+                0x00000f89       0x29 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_configure_system_lib.o)
+ .debug_pubnames
+                0x00000fb2       0x2a C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_interrupts_lib.o)
+ .debug_pubnames
+                0x00000fdc       0x2b C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_disable_interrupts_lib.o)
+ .debug_pubnames
+                0x00001007       0x2b C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_restore_interrupts_lib.o)
+ .debug_pubnames
+                0x00001032       0x36 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_mv_int_lib.o)
+ .debug_pubnames
+                0x00001068       0xca C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+
+.debug_info     0x00000000     0xadd5
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0xad0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\uart_lib.o
+ .debug_info    0x00000ad0     0x2487 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+ .debug_info    0x00002f57      0xaf0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_config.o
+ .debug_info    0x00003a47     0x22bd ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid.o
+ .debug_info    0x00005d04     0x185e ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid_parser.o
+ .debug_info    0x00007562     0x2ba3 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+ .debug_info    0x0000a105      0x744 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\exceptions.o
+ .debug_info    0x0000a849       0x30 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .debug_info    0x0000a879       0x57 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+ .debug_info    0x0000a8d0        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(errno.o)
+ .debug_info    0x0000a8d0       0x79 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .debug_info    0x0000a949       0x30 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_info    0x0000a979       0x30 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_info    0x0000a9a9       0x30 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_info    0x0000a9d9       0x30 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .debug_info    0x0000aa09      0x1aa C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .debug_info    0x0000abb3       0x30 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(soft_reset_lib.o)
+ .debug_info    0x0000abe3       0x42 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(pcache.o)
+ .debug_info    0x0000ac25       0x30 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_configure_system_lib.o)
+ .debug_info    0x0000ac55       0x30 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_interrupts_lib.o)
+ .debug_info    0x0000ac85       0x30 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_disable_interrupts_lib.o)
+ .debug_info    0x0000acb5       0x30 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_restore_interrupts_lib.o)
+ .debug_info    0x0000ace5       0x30 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_mv_int_lib.o)
+ .debug_info    0x0000ad15       0xc0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+
+.debug_abbrev   0x00000000     0x11c2
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x1dc ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\uart_lib.o
+ .debug_abbrev  0x000001dc      0x332 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+ .debug_abbrev  0x0000050e      0x1b3 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_config.o
+ .debug_abbrev  0x000006c1      0x231 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid.o
+ .debug_abbrev  0x000008f2      0x292 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid_parser.o
+ .debug_abbrev  0x00000b84      0x2b9 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+ .debug_abbrev  0x00000e3d      0x141 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\exceptions.o
+ .debug_abbrev  0x00000f7e       0x23 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .debug_abbrev  0x00000fa1       0x23 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+ .debug_abbrev  0x00000fc4        0x1 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(errno.o)
+ .debug_abbrev  0x00000fc5       0x36 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .debug_abbrev  0x00000ffb       0x23 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_abbrev  0x0000101e       0x23 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_abbrev  0x00001041       0x23 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_abbrev  0x00001064       0x23 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .debug_abbrev  0x00001087       0x23 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .debug_abbrev  0x000010aa       0x23 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(soft_reset_lib.o)
+ .debug_abbrev  0x000010cd       0x23 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(pcache.o)
+ .debug_abbrev  0x000010f0       0x23 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_configure_system_lib.o)
+ .debug_abbrev  0x00001113       0x23 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_interrupts_lib.o)
+ .debug_abbrev  0x00001136       0x23 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_disable_interrupts_lib.o)
+ .debug_abbrev  0x00001159       0x23 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_restore_interrupts_lib.o)
+ .debug_abbrev  0x0000117c       0x23 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_mv_int_lib.o)
+ .debug_abbrev  0x0000119f       0x23 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+
+.debug_line     0x00000000     0x286c
+ *(.debug_line)
+ .debug_line    0x00000000      0x23e ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\uart_lib.o
+ .debug_line    0x0000023e      0x476 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+ .debug_line    0x000006b4      0x1b7 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_config.o
+ .debug_line    0x0000086b      0x5c0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid.o
+ .debug_line    0x00000e2b      0x4cf ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid_parser.o
+ .debug_line    0x000012fa      0xa5c ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+ .debug_line    0x00001d56      0x17d ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\exceptions.o
+ .debug_line    0x00001ed3       0x85 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .debug_line    0x00001f58       0x87 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+ .debug_line    0x00001fdf        0x0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(errno.o)
+ .debug_line    0x00001fdf       0x87 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .debug_line    0x00002066       0xa6 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_line    0x0000210c       0x93 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_line    0x0000219f       0x97 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_line    0x00002236       0x88 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .debug_line    0x000022be       0x88 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .debug_line    0x00002346       0xa1 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(soft_reset_lib.o)
+ .debug_line    0x000023e7       0x9a C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(pcache.o)
+ .debug_line    0x00002481       0xa9 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_configure_system_lib.o)
+ .debug_line    0x0000252a       0xaa C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_interrupts_lib.o)
+ .debug_line    0x000025d4       0xab C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_disable_interrupts_lib.o)
+ .debug_line    0x0000267f       0xab C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_restore_interrupts_lib.o)
+ .debug_line    0x0000272a       0xa6 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_mv_int_lib.o)
+ .debug_line    0x000027d0       0x9c C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+
+.debug_frame    0x00000000      0xeec
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xf0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\uart_lib.o
+ .debug_frame   0x000000f0      0x1b0 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+ .debug_frame   0x000002a0      0x204 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid.o
+ .debug_frame   0x000004a4       0xdc ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid_parser.o
+ .debug_frame   0x00000580      0x468 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+ .debug_frame   0x000009e8       0x30 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\exceptions.o
+ .debug_frame   0x00000a18       0x28 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .debug_frame   0x00000a40       0x74 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+ .debug_frame   0x00000ab4       0xa0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .debug_frame   0x00000b54       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_frame   0x00000b74       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_frame   0x00000b94       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_frame   0x00000bb4       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .debug_frame   0x00000bd4      0x178 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .debug_frame   0x00000d4c       0x28 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(soft_reset_lib.o)
+ .debug_frame   0x00000d74       0x30 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(pcache.o)
+ .debug_frame   0x00000da4       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_configure_system_lib.o)
+ .debug_frame   0x00000dc4       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_interrupts_lib.o)
+ .debug_frame   0x00000de4       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_disable_interrupts_lib.o)
+ .debug_frame   0x00000e04       0x20 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_restore_interrupts_lib.o)
+ .debug_frame   0x00000e24       0x28 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_mv_int_lib.o)
+ .debug_frame   0x00000e4c       0xa0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+
+.debug_str      0x00000000     0x101f
+ *(.debug_str)
+ .debug_str     0x00000000       0x2c ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\uart_lib.o
+ .debug_str     0x0000002c       0xd6 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+ .debug_str     0x00000102       0x12 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_config.o
+ .debug_str     0x00000114      0x16a ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid.o
+ .debug_str     0x0000027e       0xc1 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host_hid_parser.o
+ .debug_str     0x0000033f       0xc7 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\usb_host.o
+ .debug_str     0x00000406       0x12 ..\..\..\..\..\Documents\pic32_work\mouse\Intermediary\exceptions.o
+ .debug_str     0x00000418       0xaf C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+                                 0xb4 (size before relaxing)
+ .debug_str     0x000004c7       0x7f C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+                                 0xc9 (size before relaxing)
+ .debug_str     0x00000546       0x98 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+                                 0xe7 (size before relaxing)
+ .debug_str     0x000005de       0xa3 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+                                 0xed (size before relaxing)
+ .debug_str     0x00000681       0x7d C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+                                 0xc7 (size before relaxing)
+ .debug_str     0x000006fe       0x85 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+                                 0xcf (size before relaxing)
+ .debug_str     0x00000783       0x6e C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+                                 0xb8 (size before relaxing)
+ .debug_str     0x000007f1      0x2d8 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                                0x322 (size before relaxing)
+ .debug_str     0x00000ac9       0x8b C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(soft_reset_lib.o)
+                                 0xd5 (size before relaxing)
+ .debug_str     0x00000b54       0x9b C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(pcache.o)
+                                 0xe5 (size before relaxing)
+ .debug_str     0x00000bef       0x9c C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_configure_system_lib.o)
+                                 0xe6 (size before relaxing)
+ .debug_str     0x00000c8b       0x9e C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_interrupts_lib.o)
+                                 0xe8 (size before relaxing)
+ .debug_str     0x00000d29       0xa0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_disable_interrupts_lib.o)
+                                 0xea (size before relaxing)
+ .debug_str     0x00000dc9       0xa0 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_restore_interrupts_lib.o)
+                                 0xea (size before relaxing)
+ .debug_str     0x00000e69       0xa6 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_enable_mv_int_lib.o)
+                                 0xf0 (size before relaxing)
+ .debug_str     0x00000f0f      0x110 C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a(int_tbl_lib.o)
+                                0x15a (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+/DISCARD/
+ *(.note.GNU-stack)
+                0x00000001                __MPLAB_BUILD = 0x1
+                0x00002000                _min_heap_size = 0x2000
+                0x00002000                _min_stack_size = 0x2000
+LOAD C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4\libgcc.a
+START GROUP
+LOAD C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libdebug.a
+LOAD C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a
+LOAD C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a
+LOAD C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libe.a
+LOAD C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libdsp.a
+LOAD C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a
+LOAD C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX440F128H.a
+END GROUP
+LOAD C:/Program Files (x86)/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4\libgcc.a
+OUTPUT(C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master\mouse\Output\cmi_mouse.elf elf32-tradlittlemips)

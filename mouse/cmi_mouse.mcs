@@ -1,0 +1,123 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\Users\britt\Documents\pic32_work\mouse\Intermediary\uart_lib.o
+Folder=Intermediary
+DeviceName=PIC32MX440F128H
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master2\mouse\Output||$(TMPDIR)|C:\Users\britt\Documents\pic32_work\mouse\Intermediary||$(AINDIR)||$(INCDIR)|C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master\mouse;C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master\Microchip;C:\Users\britt\Documents\pic32_work\mouse;C:\Microchip Solutions\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|C:\Program Files (x86)\Microchip\MPLAB C32 Suite\pic32-libs\peripheral\uart\source\uart_lib.c|cmi_mouse.c|usb_config.c|C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid.c|C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|C:\Microchip Solutions\Microchip\USB\usb_host.c|exceptions.c||<obj>||<lib>||<lkr>|elf32pic32mx.ld|mouse_procdefs.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=C:\Users\britt\Documents\pic32_work\mouse\Intermediary\cmi_mouse.o
+Folder=Intermediary
+DeviceName=PIC32MX440F128H
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master2\mouse\Output||$(TMPDIR)|C:\Users\britt\Documents\pic32_work\mouse\Intermediary||$(AINDIR)||$(INCDIR)|C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master\mouse;C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master\Microchip;C:\Users\britt\Documents\pic32_work\mouse;C:\Microchip Solutions\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|C:\Program Files (x86)\Microchip\MPLAB C32 Suite\pic32-libs\peripheral\uart\source\uart_lib.c|cmi_mouse.c|usb_config.c|C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid.c|C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|C:\Microchip Solutions\Microchip\USB\usb_host.c|exceptions.c||<obj>||<lib>||<lkr>|elf32pic32mx.ld|mouse_procdefs.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=C:\Users\britt\Documents\pic32_work\mouse\Intermediary\usb_config.o
+Folder=Intermediary
+DeviceName=PIC32MX440F128H
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master2\mouse\Output||$(TMPDIR)|C:\Users\britt\Documents\pic32_work\mouse\Intermediary||$(AINDIR)||$(INCDIR)|C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master\mouse;C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master\Microchip;C:\Users\britt\Documents\pic32_work\mouse;C:\Microchip Solutions\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|C:\Program Files (x86)\Microchip\MPLAB C32 Suite\pic32-libs\peripheral\uart\source\uart_lib.c|cmi_mouse.c|usb_config.c|C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid.c|C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|C:\Microchip Solutions\Microchip\USB\usb_host.c|exceptions.c||<obj>||<lib>||<lkr>|elf32pic32mx.ld|mouse_procdefs.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=C:\Users\britt\Documents\pic32_work\mouse\Intermediary\usb_host_hid.o
+Folder=Intermediary
+DeviceName=PIC32MX440F128H
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master2\mouse\Output||$(TMPDIR)|C:\Users\britt\Documents\pic32_work\mouse\Intermediary||$(AINDIR)||$(INCDIR)|C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master\mouse;C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master\Microchip;C:\Users\britt\Documents\pic32_work\mouse;C:\Microchip Solutions\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|C:\Program Files (x86)\Microchip\MPLAB C32 Suite\pic32-libs\peripheral\uart\source\uart_lib.c|cmi_mouse.c|usb_config.c|C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid.c|C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|C:\Microchip Solutions\Microchip\USB\usb_host.c|exceptions.c||<obj>||<lib>||<lkr>|elf32pic32mx.ld|mouse_procdefs.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=C:\Users\britt\Documents\pic32_work\mouse\Intermediary\usb_host_hid_parser.o
+Folder=Intermediary
+DeviceName=PIC32MX440F128H
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master2\mouse\Output||$(TMPDIR)|C:\Users\britt\Documents\pic32_work\mouse\Intermediary||$(AINDIR)||$(INCDIR)|C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master\mouse;C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master\Microchip;C:\Users\britt\Documents\pic32_work\mouse;C:\Microchip Solutions\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|C:\Program Files (x86)\Microchip\MPLAB C32 Suite\pic32-libs\peripheral\uart\source\uart_lib.c|cmi_mouse.c|usb_config.c|C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid.c|C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|C:\Microchip Solutions\Microchip\USB\usb_host.c|exceptions.c||<obj>||<lib>||<lkr>|elf32pic32mx.ld|mouse_procdefs.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=C:\Users\britt\Documents\pic32_work\mouse\Intermediary\usb_host.o
+Folder=Intermediary
+DeviceName=PIC32MX440F128H
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master2\mouse\Output||$(TMPDIR)|C:\Users\britt\Documents\pic32_work\mouse\Intermediary||$(AINDIR)||$(INCDIR)|C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master\mouse;C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master\Microchip;C:\Users\britt\Documents\pic32_work\mouse;C:\Microchip Solutions\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|C:\Program Files (x86)\Microchip\MPLAB C32 Suite\pic32-libs\peripheral\uart\source\uart_lib.c|cmi_mouse.c|usb_config.c|C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid.c|C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|C:\Microchip Solutions\Microchip\USB\usb_host.c|exceptions.c||<obj>||<lib>||<lkr>|elf32pic32mx.ld|mouse_procdefs.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=C:\Users\britt\Documents\pic32_work\mouse\Intermediary\exceptions.o
+Folder=Intermediary
+DeviceName=PIC32MX440F128H
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master2\mouse\Output||$(TMPDIR)|C:\Users\britt\Documents\pic32_work\mouse\Intermediary||$(AINDIR)||$(INCDIR)|C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master\mouse;C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master\Microchip;C:\Users\britt\Documents\pic32_work\mouse;C:\Microchip Solutions\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|C:\Program Files (x86)\Microchip\MPLAB C32 Suite\pic32-libs\peripheral\uart\source\uart_lib.c|cmi_mouse.c|usb_config.c|C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid.c|C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|C:\Microchip Solutions\Microchip\USB\usb_host.c|exceptions.c||<obj>||<lib>||<lkr>|elf32pic32mx.ld|mouse_procdefs.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master2\mouse\Output\cmi_mouse.elf
+Folder=Output
+DeviceName=PIC32MX440F128H
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-ld.exe
+PPAD=$(BINDIR)|C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master2\mouse\Output||$(TMPDIR)|C:\Users\britt\Documents\pic32_work\mouse\Intermediary||$(AINDIR)||$(INCDIR)|C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master\mouse;C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master\Microchip;C:\Users\britt\Documents\pic32_work\mouse;C:\Microchip Solutions\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|C:\Program Files (x86)\Microchip\MPLAB C32 Suite\pic32-libs\peripheral\uart\source\uart_lib.c|cmi_mouse.c|usb_config.c|C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid.c|C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|C:\Microchip Solutions\Microchip\USB\usb_host.c|exceptions.c||<obj>||<lib>||<lkr>|elf32pic32mx.ld|mouse_procdefs.ld||
+SuiteArgsString=
+ToolArgsString=--defsym=_min_heap_size=8192 --defsym=_min_stack_size=8192 -Map="$(BINDIR_)$(TARGETBASE).map" -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=
+[File008]
+Location=C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master2\mouse\Output\cmi_mouse.hex
+Folder=Output
+DeviceName=PIC32MX440F128H
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-ld.exe
+PPAD=$(BINDIR)|C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master2\mouse\Output||$(TMPDIR)|C:\Users\britt\Documents\pic32_work\mouse\Intermediary||$(AINDIR)||$(INCDIR)|C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master\mouse;C:\Users\britt\OneDrive\Desktop\cmi\usb2cmi_lightpen-master\Microchip;C:\Users\britt\Documents\pic32_work\mouse;C:\Microchip Solutions\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|C:\Program Files (x86)\Microchip\MPLAB C32 Suite\pic32-libs\peripheral\uart\source\uart_lib.c|cmi_mouse.c|usb_config.c|C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid.c|C:\Microchip Solutions\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|C:\Microchip Solutions\Microchip\USB\usb_host.c|exceptions.c||<obj>||<lib>||<lkr>|elf32pic32mx.ld|mouse_procdefs.ld||
+SuiteArgsString=
+ToolArgsString=--defsym=_min_heap_size=8192 --defsym=_min_stack_size=8192 -Map="$(BINDIR_)$(TARGETBASE).map" -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{430F471F-7ECB-4852-A80D-DEF9A5C8E751}=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-gcc.exe
+tool_loc{C68E5105-1196-4333-A0BF-3DC57271E614}=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-ld.exe
